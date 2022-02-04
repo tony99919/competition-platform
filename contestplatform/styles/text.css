@@ -1,0 +1,33 @@
+.signout{
+  text-align: right;
+  color: #858588;
+  cursor: pointer;
+}
+
+.text-google{
+  text-align: right;
+  color: #6b6be3;
+  cursor: pointer;
+}
+
+.InContest{
+  color: #6b6be3;
+}
+.selectstyle{
+  color:#000000
+}
+.filter-by{
+  background-color: black;
+}
+
+.resetPassword{
+  text-align: right;
+  color: #6b6be3;
+  cursor: pointer;
+}
+
+.container {
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}

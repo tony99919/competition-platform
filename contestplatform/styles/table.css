@@ -1,0 +1,39 @@
+table th.sort-asc::before {
+    border-bottom: 5px solid #22543d;
+  }
+  table th.sort-desc::before {
+    border-top: 5px solid #22543d;
+  }
+  .pagination {
+    padding: 0.5rem;
+    margin-top: 100px;
+  }
+  .option-nbPage {
+    background-color: #000000;
+  }
+  
+  .badge-open-contest{
+    background-color: #9ae6b4;
+    color: #22543d;
+    margin-right: 4px;
+    padding: 4px 8px;
+    border-radius: 12px;
+    font-size: 12px;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  .badge-close-contest{
+    background-color: #f08098;
+    color: #000000;
+    margin-right: 4px;
+    padding: 4px 8px;
+    border-radius: 12px;
+    font-size: 12px;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+
+  .tabAllContest{
+    height: 70px;
+    vertical-align: middle;
+    }
