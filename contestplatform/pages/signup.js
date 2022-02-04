@@ -8,7 +8,7 @@ import SimpleLayout from '../components/layout/simple'
  * componant for sign up.
  * @returns html code
  */
-export default function signup() {
+export default function Signup() {
   const [session, setSession] = useState(null)
 
   /**

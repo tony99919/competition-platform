@@ -7,7 +7,7 @@ import Table from "./Table/Table";
  * show all info for all contest for visitor.
  * @returns html code for all contest
  */
-export default function loadContest() {
+export default function LoadContest() {
   const Swal = require('sweetalert2')
   const mylib = require('../Mylib')
   // data hook

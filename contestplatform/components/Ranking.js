@@ -5,7 +5,7 @@ import TableRankingGeneral from "./Table/TableClassement";
  * componant for general ranking
  * @returns html code for clasement
  */
-export default function getRanking() {
+export default function GetRanking() {
   const Swal = require('sweetalert2')
   const mylib = require('../Mylib')
   const [data, setData] = useState([])

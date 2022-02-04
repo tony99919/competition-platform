@@ -5,7 +5,7 @@ import Ranking from '../components/Ranking'
  * componant for ranking general
  * @returns html code
  */
-export default function ranking() {
+export default function Ranking() {
   return (
     <SimpleLayout>
       <div style={{ padding: '50px 0 500px 0' }}>

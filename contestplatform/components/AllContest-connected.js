@@ -8,7 +8,7 @@ import Table from "./Table/Table";
  * @param {object} session
  * @returns html code for all contest
  */
-export default function loadContest({ session }) {
+export default function LoadContest({ session }) {
   const Swal = require('sweetalert2')
   const mylib = require('../Mylib')
   // data hook

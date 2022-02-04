@@ -5,7 +5,7 @@ import SimpleLayout from '../components/layout/simple'
  * componant for adding one contest.
  * @returns html code
  */
-export default function addContest() {
+export default function AddContest() {
   return (
     <SimpleLayout>
       <div style={{ padding: '50px 0 500px 0' }}>
